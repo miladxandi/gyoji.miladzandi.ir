@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (OEM Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="456px" height="456px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 456 456"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#C9A84C;stroke-width:1.43;stroke-miterlimit:22.9256;stroke-opacity:0.400000}
+    .fil5 {fill:none}
+    .fil4 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:#8B7B68;fill-rule:nonzero}
+    .fil2 {fill:#A69076;fill-rule:nonzero}
+    .fil1 {fill:#C9A84C;fill-rule:nonzero}
+    .fil0 {fill:#E8DCC8;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2564844800400">
+   <path class="fil0" d="M155.27 276.49c0,-75.76 30.31,-121.22 72.73,-136.37 42.42,15.15 72.73,60.61 72.73,136.37l18.18 36.36 -181.82 0 18.18 -36.36z"/>
+   <circle class="fil1" cx="228" cy="132.54" r="13.64"/>
+   <ellipse class="fil2" cx="228" cy="312.85" rx="90.91" ry="12.12"/>
+   <circle class="fil3" cx="228" cy="332.55" r="9.09"/>
+   <path class="fil4 str0" d="M394.67 228c0,-92.05 -74.62,-166.67 -166.67,-166.67 -92.05,0 -166.67,74.62 -166.67,166.67 0,92.05 74.62,166.67 166.67,166.67 92.05,0 166.67,-74.62 166.67,-166.67z"/>
+   <rect class="fil5" width="456" height="456"/>
+  </g>
+ </g>
+</svg>
